@@ -1,0 +1,51 @@
+# basic
+title: Daily
+subtitle: Minimalism, simplicity and refined details
+favicon: /images/favicon.png
+
+# avatar: images/avatar.png
+# banner_small: images/banner-small.png
+# banner_large: images/banner-large.png
+logo: /images/logo.jpg
+
+# disqus
+#disqus_shortname: drakeleung
+
+highlight:
+  enable: true
+  line_number: false
+  auto_detect: false
+  tab_replace:
+
+# nav #
+nav:
+  Home: .
+  Archive: archives
+  About: about
+  Gallery: gallery
+  # rss: atom.xml
+
+# hexo-renderer-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+# Default post title
+default_post_title: Untitled
+
+# social
+social:
+  # github: https://github.com/GallenHu
+  # weibo: http://weibo.com/10010800
+  # mail: mailto:gallenhu@foxmail.com
+  # twitter: https://twitter.com/GallenHu
+
+# widget
+#   title: 标题
+#   content: 内容
+widget:
+  title: 
+  content: 
+
+footer: Powered by <a href="" target="_blank">Podworks Online</a> with Theme <a href="" target="_blank">Podworks Online</a>

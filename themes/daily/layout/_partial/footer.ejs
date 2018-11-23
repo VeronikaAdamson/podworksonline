@@ -1,0 +1,14 @@
+<!-- Footer -->
+<footer class="site-info">
+  <p>
+    <span><%- config.title %> &copy; <%= (new Date()).getFullYear() %></span>
+    <% if(config.footer !== null) { %>
+      <span class="split">|</span>
+      <span><%- config.footer || theme.footer %></span>
+    <% } %>
+  </p>
+</footer>
+
+<a id="back-to-top" class="icon-btn hide">
+	<i class="fa fa-chevron-up"></i>
+</a>
