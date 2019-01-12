@@ -20,9 +20,9 @@ highlight:
 # nav #
 nav:
   Home: .
-  Archive: archives
-  About: about
-  Gallery: gallery
+  Archive: archives/
+  About: about/
+  Gallery: gallery/
   # rss: atom.xml
 
 # hexo-renderer-sass
